@@ -47,6 +47,7 @@ export default function VideoChat({ isVideoChatOpen, setIsVideoChatOpen }) {
             <button
               className="type-select-button active"
               style={{ marginTop: "5px" }}
+              onClick={() => alert("Private rooms coming soon.")}
             >
               Create a private room
             </button>
