@@ -37,24 +37,6 @@
 }
 
 /* Type Styles */
-.type-select-button {
-  display: grid;
-  place-items: center;
-  width: 75px;
-  height: 35px;
-  color: #fff;
-  font-weight: 400;
-  cursor: pointer;
-  font-size: 15px;
-  user-select: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-  border-right: 1px solid rgba(255, 255, 255, 0.05);
-  transition: 0.5s;
-  background: none;
-  border-radius: 25px;
-  padding: 0;
-  border: none;
-}
 
 .timer-type-button {
   display: grid;

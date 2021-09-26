@@ -7,12 +7,11 @@
   font-family: "Quicksand", sans-serif;
 }
 
-body {
+.main-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
   min-height: 100vh;
-  background: #091921;
 }
 
 .container {
