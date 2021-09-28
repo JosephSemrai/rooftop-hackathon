@@ -21,7 +21,10 @@ export default function App() {
         </div>
 
         {isVideoChatOpen && (
-          <div className="container">
+          <div
+            className="container"
+            style={{ width: "600px", height: "500px" }}
+          >
             <CatalystChat
               room="PUBLIC_STUDY"
               appId="XuWdJjuRRWgJpyiF8a0wmORgFut1"
